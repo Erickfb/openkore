@@ -51,6 +51,8 @@ tables/**/monsters.txt
 *.weight
 
 revc/.vs
+revc/*.asi
+revc/Recv/Release
 revc/Recv/x64
 revc/Recv/x86
 revc/Recv/.vs
